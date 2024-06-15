@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DurgasriKambala/bmicalc/static/css/main.e180d080.css",
-    "main.js": "/DurgasriKambala/bmicalc/static/js/main.b4c04642.js",
-    "index.html": "/DurgasriKambala/bmicalc/index.html",
-    "main.e180d080.css.map": "/DurgasriKambala/bmicalc/static/css/main.e180d080.css.map",
-    "main.b4c04642.js.map": "/DurgasriKambala/bmicalc/static/js/main.b4c04642.js.map"
+    "main.css": "/bmicalc/static/css/main.e180d080.css",
+    "main.js": "/bmicalc/static/js/main.b4c04642.js",
+    "index.html": "/bmicalc/index.html",
+    "main.e180d080.css.map": "/bmicalc/static/css/main.e180d080.css.map",
+    "main.b4c04642.js.map": "/bmicalc/static/js/main.b4c04642.js.map"
   },
   "entrypoints": [
     "static/css/main.e180d080.css",
